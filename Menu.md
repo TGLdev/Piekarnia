@@ -28,11 +28,11 @@
 
 Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
 
-|Lp.|Ciasto:          |Skład:                                                                                                                       |Cena za kawałek:|Cena za całość:|
-|---|-----------------|-----------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
-|1. |Marchewkowe      |(mąka pszenna, cukier, olej roślinny, jajka, marchewka, orzechy włoskie, wiórki kokosowe, proszek do pieczenia, cynamon, sól)|13 zł.          |91 zł.         |
-|2. |Szpinakowe       |(mąka pszenna, cukier, olej roślinny, jajka, szpinak, granat, serek mascarpone, śmietanka 36%, wanilia)                      |14 zł.          |98 zł.         |
-|3. |Miodownik        |(mąka pszenna, cukier, cukier wanilinowy, masło, jajka, miód, mleko, masa budyniowa)                                         |16 zł.          |112 zł.        |
+|Lp.|Ciasto:          |Skład:                                                                                                                        |Cena za kawałek:|Cena za całość:|
+|---|-----------------|------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
+|1. |Marchewkowe      |(mąka pszenna, cukier, olej roślinny, jajka, marchewka, orzechy włoskie, wiórki kokosowe, proszek do pieczenia, cynamon, sól) |13 zł.          |91 zł.         |
+|2. |Szpinakowe       |(mąka pszenna, cukier, olej roślinny, jajka, szpinak, granat, serek mascarpone, śmietanka 36%, wanilia)                       |14 zł.          |98 zł.         |
+|3. |Miodownik        |(mąka pszenna, cukier, cukier wanilinowy, masło, jajka, miód, mleko, masa budyniowa)                                          |16 zł.          |112 zł.        |
 
 |Lp.|Ciasto sezonowe:  |Skład:                                                                                                                       |Cena za kawałek:|Cena za całość:|
 |---|------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
