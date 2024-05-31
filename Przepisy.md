@@ -10,3 +10,9 @@
 |4. |Żytni            |(mąka żytnia, woda, miód, oliwa z oliwek, drożdże, sól gruboziarnista)           |45 zł.     |185 C       |
 
 ## Chleb bezglutenowy
+
+|Lp.|Chleb:           |Skład:                                                                                                                             |Piec przez:|Temperatura:|
+|---|-----------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+|1. |Gryczany         |(mąka gryczana, mąka jaglana, skrobia ziemniacza, woda, siemię lniane, cukier, babka płesznik, drożdże, sól)                       
+|2. |Słonecznikowy    |(mąka gryczaba, woda, ziarna słonecznika, łuski babki jajowatej, olej rzepakowy, cukier, sok z cytryny, sól)                       
+|3. |Dynowy           |(mąka ryżowa, mąka ziemniaczana, woda, pieczona dynia, pestki dyni, drodże, oliwa z oliwek, sól)                                   
