@@ -4,7 +4,7 @@
 
 <img src = "img/41573629_s.jpg" width = 350>
 
-|Lp.|Chleb:           |Skład:                                                                           |Cena:  
+|Lp.|Chleb:           |Skład:                                                                           |Cena: |
 |---|-----------------|---------------------------------------------------------------------------------|------|
 |1. |Pszenny          |(mąka pszenna, woda, zakwas piekarski żytni, drożdże, sól)                       |12 zł.|
 |2. |Słonecznikowy    |(mąka pszenna, woda, ziarna słonecznika, cukier, olej rzepakowy, drożdże)        |15 zł.|
@@ -14,6 +14,8 @@
 ## Ciasta
 
 <img src = "img/z28446100Q,Ciasto-truskawkowe.jpg" width = 350>
+
+Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
 
 |Lp.|Ciasto:          |Skład:                                                                                                                       |Cena za kawałek:|Cena za całość:|
 |---|-----------------|-----------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
@@ -26,11 +28,15 @@
 |1. |Truskawkowe       |(mąka pszenna, cukier, cukier wanilinowy, olej roślinny, jajka, truskawki, serek homogenizowany, agar.)                      |19 zł.          |133 zł.        |
 |2. |Ciasto z borówkami|(mąka pszenna, cukier, cukier wanilinowy, masło, jajka, borówki, skórka cytryny, twaróg, śmietanka 36%, masa budyniowa       |19 zł.          |133 zł.        |
 
-Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
+## Wypieki okazjonalne na zamówienie
 
-## Ciastka
+<img src = "img/Kruche_ciastka_maslane_na_Halloween_47.jpg" width = 350>
 
+Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 
-
-## Wypieki okazjonalne
+|Lp.|Ciasto:               |Średnica:  |30 cm |40 cm |50 cm | 
+|---|----------------------|-----------|------|------|------|
+|1. |Biszkopt z kremem     |           |80 zł |150 zł|220 zł|
+|2. |Tort zdobiony         |           |130 zł|240 zł|360 zł|
+|3. |Tort piętrowy zdobiony|           |170 zł|320 zł| 490zł|
 
