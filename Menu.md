@@ -1,6 +1,6 @@
-#Menu
+# Menu
 
-##Chleby
+## Chleby
 
 1. Chleb pszenny (mąka pszenna, woda, zakwas piekarski żytni, drożdże, sól)
 2. Chleb słonecznikowy (mąka pszenna, woda, ziarna słonecznika, cukier, olej rzepakowy, drożdże)
