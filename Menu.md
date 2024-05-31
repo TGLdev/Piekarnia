@@ -45,3 +45,15 @@ Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 |1. |Zdobione lukrem                |           |30 zł |140 zł|250zł |
 |2. |Zdobione polewami              |           |40 zł |185 zł|325 zł|
 |3. |Unikatowe kształty i zdobienia |           |50 zł |230 zł|400 zł|
+
+## Kawa
+
+<img src = "img/rodzaje-kawy.jpg" width = 350>
+
+|Lp.|Kawy:            |Wielkość:|Mała:   |Średnia:|Duża:   |
+|---|-----------------|---------|--------|--------|--------|
+|1. |Espresso         |         |10 zł   |18 zł   |23 zł   |
+|2. |Cappuccino       |         |12 zł   |22 zł   |32 zł   |
+|3. |Latte            |         |14 zł   |24 zł   |34 zł   |
+|4. |Flat white       |         |14 zł   |24 zł   |34 zł   |
+|5. |Mocha            |         |16 zł   |26 zł   |36 zł   |
