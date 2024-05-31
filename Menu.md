@@ -59,6 +59,8 @@ Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 
 ## Miody
 
+<img src = "img//360_F_611597720_oipT3jXfjYaTYXmP2sGTdcoIQ4mzxty6.jpg" width = 350>
+
 |Lp.|Miód:            |Wielkość:|Mały:   |Średni: |Duży:   |
 |---|-----------------|---------|--------|--------|--------|
 |1. |Lipowy           |         |20 zł   |30 zł   |40 zł   |
