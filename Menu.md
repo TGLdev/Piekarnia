@@ -21,12 +21,12 @@
 |2. |Szpinakowe       |(mąka pszenna, cukier, olej roślinny, jajka, szpinak, granat, serek mascarpone, śmietanka 36%, wanilia)                      |14 zł.          |98 zł.         |
 |3. |Miodownik        |(mąka pszenna, cukier, cukier wanilinowy, masło, jajka, miód, mleko, masa budyniowa)                                         |16 zł.          |112 zł.        |
 
-|Lp.|Ciasto sezonowe: |Skład:                                                                           |Cena za kawałek:|Cena za całość:|
-|---|-----------------|---------------------------------------------------------------------------------|----------------|---------------|
-|1. |Truskawkowe      |---------------------------------------------------------------------------------|19 zł.          |133 zł.        |
-|2. |Jagodowe         |---------------------------------------------------------------------------------|19 zł.          |133 zł.        |
+|Lp.|Ciasto sezonowe:  |Skład:                                                                                                                       |Cena za kawałek:|Cena za całość:|
+|---|------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
+|1. |Truskawkowe       |(mąka pszenna, cukier, cukier wanilinowy, olej roślinny, jajka, truskawki, serek homogenizowany, agar.)                      |19 zł.          |133 zł.        |
+|2. |Ciasto z borówkami|(mąka pszenna, cukier, cukier wanilinowy, masło, jajka, borówki, skórka cytryny, twaróg, śmietanka 36%, masa budyniowa       |19 zł.          |133 zł.        |
 
- Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
+Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
 
 ## Ciastka
 
