@@ -40,3 +40,8 @@ Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 |2. |Tort zdobiony         |           |130 zł|240 zł|360 zł|
 |3. |Tort piętrowy zdobiony|           |170 zł|320 zł| 490zł|
 
+|Lp.|Ciastka:                       |Ilość:     |10    |50    |100   | 
+|---|-------------------------------|-----------|----- |------|------|
+|1. |Zdobione lukrem                |           |30 zł |140 zł|250zł |
+|2. |Zdobione polewami              |           |40 zł |185 zł|325 zł|
+|3. |Unikatowe kształty i zdobienia |           |50 zł |230 zł|400 zł|
