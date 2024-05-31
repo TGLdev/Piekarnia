@@ -11,6 +11,16 @@
 |3. |Razowy           |(mąka pszenna razowa, woda, siemię lniane, olej rzepakowy, sól)                  |15 zł.|
 |4. |Żytni            |(mąka żytnia, woda, miód, oliwa z oliwek, drożdże, sól gruboziarnista)           |18 zł.|
 
+## Chleby bezglutenowe
+
+
+|Lp.|Chleb:           |Skład:                                                                                                                             |Cena: |
+|---|-----------------|-----------------------------------------------------------------------------------------------------------------------------------|------|
+|1. |Gryczany         |(mąka gryczana, mąka jaglana, skrobia ziemniacza, woda, siemię lniane, cukier, babka płesznik, drożdże, sól)                       |24 zł.|
+|2. |Słonecznikowy    |(mąka gryczaba, woda, ziarna słonecznika, łuski babki jajowatej, olej rzepakowy, cukier, sok z cytryny, sól)                       |26 zł.|
+|3. |Dynowy           |(mąka ryżowa, mąka ziemniaczana, woda, pieczona dynia, pestki dyni, drodże, oliwa z oliwek, sól)                                   |28 zł.|
+
+
 ## Ciasta
 
 <img src = "img/z28446100Q,Ciasto-truskawkowe.jpg" width = 350>
