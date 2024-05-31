@@ -57,6 +57,16 @@ Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 |2. |Zdobione polewami              |           |40 zł |185 zł|325 zł|
 |3. |Unikatowe kształty i zdobienia |           |50 zł |230 zł|400 zł|
 
+## Miody
+
+|Lp.|Miód:            |Wielkość:|Mały:   |Średni: |Duży:   |
+|---|-----------------|---------|--------|--------|--------|
+|1. |Lipowy           |         |20 zł   |30 zł   |40 zł   |
+|2. |Gryczany         |         |15 zł   |30 zł   |45 zł   |
+|3. |Spadziowy        |         |20 zł   |40 zł   |60 zł   |
+|4. |Wielokwiatowy    |         |15 zł   |25 zł   |35 zł   |
+
+
 ## Kawa
 
 <img src = "img/rodzaje-kawy.jpg" width = 350>
