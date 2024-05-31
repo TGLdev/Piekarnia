@@ -1,5 +1,7 @@
 ## Dane kontakowe
 
+<img src = "img/ITthumb.jpg" width = 350>
+
 |Kontakt:          |                             |
 |------------------|-----------------------------|
 |Adres:            |Poznań, ul. Paderewskiego 342|
