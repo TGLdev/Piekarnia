@@ -53,7 +53,7 @@ Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 
 |Lp.|Ciastka:                       |Ilość:     |10    |50    |100   | 
 |---|-------------------------------|-----------|----- |------|------|
-|1. |Zdobione lukrem                |           |30 zł |140 zł|250zł |
+|1. |Zdobione lukrem                |           |25 zł |135 zł|245zł |
 |2. |Zdobione polewami              |           |40 zł |185 zł|325 zł|
 |3. |Unikatowe kształty i zdobienia |           |50 zł |230 zł|400 zł|
 
