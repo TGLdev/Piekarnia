@@ -45,11 +45,11 @@ Przy zakupie całego ciasta (8 kawałków), 1 kawałek jest liczony jako gratis.
 
 Składy wypieków okazjonanych do uzgodnienia przy składaniu zamówienia.
 
-|Lp.|Ciasto:               |Średnica:  |30 cm |40 cm |50 cm | 
-|---|----------------------|-----------|------|------|------|
-|1. |Biszkopt z kremem     |           |80 zł |150 zł|220 zł|
-|2. |Tort zdobiony         |           |130 zł|240 zł|360 zł|
-|3. |Tort piętrowy zdobiony|           |170 zł|320 zł| 490zł|
+|Lp.|Ciasto:                        |Średnica:  |30 cm |40 cm |50 cm | 
+|---|-------------------------------|-----------|----- |------|------|
+|1. |Biszkopt z kremem              |           |80 zł |150 zł|220 zł|
+|2. |Tort zdobiony                  |           |130 zł|240 zł|360 zł|
+|3. |Tort piętrowy zdobiony         |           |170 zł|320 zł| 490zł|
 
 |Lp.|Ciastka:                       |Ilość:     |10    |50    |100   | 
 |---|-------------------------------|-----------|----- |------|------|
